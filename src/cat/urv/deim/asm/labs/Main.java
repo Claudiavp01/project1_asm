@@ -1,6 +1,5 @@
 package cat.urv.deim.asm.labs;
 
-import java.awt.*;
 
 public class Main {
 

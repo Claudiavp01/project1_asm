@@ -1,7 +1,7 @@
 package cat.urv.deim.asm.labs;
 
-import java.awt.*;
 import java.util.Date;
+
 public class Log extends  ConsoleLog {
 
 
